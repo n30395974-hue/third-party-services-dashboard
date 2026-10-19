@@ -7,11 +7,10 @@
   "author": "n30395974",
   "primaryTime": "2026-10-19T19:51:59Z",
   "url": null,
-  "exportedAt": "2026-10-19T20:42:24Z",
+  "exportedAt": "2026-10-19T21:03:10Z",
   "exportedVia": {
     "mcpServer": "slack",
     "tools": [
-      "slack_search_channels",
       "slack_read_channel",
       "slack_read_thread"
     ],
