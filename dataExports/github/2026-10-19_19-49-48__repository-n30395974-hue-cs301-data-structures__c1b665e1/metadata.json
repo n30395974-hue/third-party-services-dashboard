@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/cs301-data-structures",
+  "title": "n30395974-hue/cs301-data-structures",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:49:48Z",
+  "url": "https://github.com/n30395974-hue/cs301-data-structures",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "cs301-data-structures",
+    "fullName": "n30395974-hue/cs301-data-structures",
+    "description": "Homework and lab solutions for CS 301: Data Structures",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "coursework",
+      "data-structures",
+      "java"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 0,
+    "createdAt": "2026-10-19T19:49:48Z",
+    "updatedAt": "2026-10-19T20:30:02Z",
+    "pushedAt": "2026-10-19T20:29:58Z"
+  }
+}

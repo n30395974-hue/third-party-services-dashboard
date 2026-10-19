@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/capstone-project",
+  "title": "n30395974-hue/capstone-project",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:49:39Z",
+  "url": "https://github.com/n30395974-hue/capstone-project",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "capstone-project",
+    "fullName": "n30395974-hue/capstone-project",
+    "description": "Senior capstone project: StudySpot, a campus study-room finder (Noah & Joe Smith)",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "capstone-project",
+      "flask",
+      "postgresql",
+      "react-native"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 3,
+    "createdAt": "2026-10-19T19:49:39Z",
+    "updatedAt": "2026-10-19T20:29:59Z",
+    "pushedAt": "2026-10-19T20:29:54Z"
+  }
+}

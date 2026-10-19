@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/dotfiles",
+  "title": "n30395974-hue/dotfiles",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:49:52Z",
+  "url": "https://github.com/n30395974-hue/dotfiles",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "dotfiles",
+    "fullName": "n30395974-hue/dotfiles",
+    "description": "My shell, git, and editor config",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "dotfiles",
+      "neovim",
+      "tmux",
+      "zsh"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 0,
+    "createdAt": "2026-10-19T19:49:52Z",
+    "updatedAt": "2026-10-19T20:30:05Z",
+    "pushedAt": "2026-10-19T20:30:01Z"
+  }
+}

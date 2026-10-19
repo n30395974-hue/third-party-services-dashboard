@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/internship-tracker",
+  "title": "n30395974-hue/internship-tracker",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:44:21Z",
+  "url": "https://github.com/n30395974-hue/internship-tracker",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "internship-tracker",
+    "fullName": "n30395974-hue/internship-tracker",
+    "description": "Spreadsheet-free tracker for summer 2027 internship applications",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "career",
+      "cli",
+      "internships",
+      "python",
+      "sqlite"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 2,
+    "createdAt": "2026-10-19T19:44:21Z",
+    "updatedAt": "2026-10-19T20:29:45Z",
+    "pushedAt": "2026-10-19T20:29:41Z"
+  }
+}

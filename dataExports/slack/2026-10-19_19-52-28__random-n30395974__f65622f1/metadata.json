@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "service": "slack",
+  "type": "message",
+  "sourceId": "C0CAK7F8CR2/1792439548.659169",
+  "title": "Just finished _Project Hail Mary_. 10/10, would recommend to anyone who needs...",
+  "author": "n30395974",
+  "primaryTime": "2026-10-19T19:52:28Z",
+  "url": null,
+  "exportedAt": "2026-10-19T20:34:54Z",
+  "exportedVia": {
+    "mcpServer": "slack",
+    "tools": [
+      "slack_search_channels",
+      "slack_read_channel",
+      "slack_read_thread"
+    ],
+    "request": "Slack: recent messages from #general and #random, with thread replies."
+  },
+  "fields": {
+    "channel": {
+      "id": "C0CAK7F8CR2",
+      "name": "random"
+    },
+    "user": {
+      "id": "U0C9YRVUR47",
+      "name": "n30395974"
+    },
+    "ts": "1792439548.659169",
+    "threadTs": null,
+    "replyCount": 0
+  }
+}

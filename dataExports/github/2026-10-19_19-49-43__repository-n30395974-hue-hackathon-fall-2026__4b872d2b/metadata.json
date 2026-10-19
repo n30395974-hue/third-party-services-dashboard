@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/hackathon-fall-2026",
+  "title": "n30395974-hue/hackathon-fall-2026",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:49:43Z",
+  "url": "https://github.com/n30395974-hue/hackathon-fall-2026",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "hackathon-fall-2026",
+    "fullName": "n30395974-hue/hackathon-fall-2026",
+    "description": "Our HackState Fall 2026 hackathon entry: a group-chat expense splitter",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "discord-bot",
+      "hackathon",
+      "nodejs",
+      "slack-bot"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 3,
+    "createdAt": "2026-10-19T19:49:43Z",
+    "updatedAt": "2026-10-19T20:29:49Z",
+    "pushedAt": "2026-10-19T20:29:45Z"
+  }
+}

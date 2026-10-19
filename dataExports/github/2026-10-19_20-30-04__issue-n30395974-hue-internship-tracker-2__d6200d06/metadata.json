@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "issue",
+  "sourceId": "n30395974-hue/internship-tracker#2",
+  "title": "Follow-up reminders show applications that were already rejected",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T20:30:04Z",
+  "url": "https://github.com/n30395974-hue/internship-tracker/issues/2",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "repository": "n30395974-hue/internship-tracker",
+    "number": 2,
+    "state": "open",
+    "labels": [],
+    "assignees": [],
+    "createdAt": "2026-10-19T20:30:04Z",
+    "updatedAt": "2026-10-19T20:30:04Z",
+    "closedAt": null,
+    "commentCount": 0
+  }
+}

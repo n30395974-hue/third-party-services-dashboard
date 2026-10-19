@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "service": "notion",
+  "type": "page",
+  "sourceId": "3fe9c8fc-c83d-8176-a7f5-da89c5aec540",
+  "title": "Hackathon Plan: HackState Fall 2026",
+  "author": "unknown",
+  "primaryTime": "2026-10-19T19:51:00Z",
+  "url": "https://app.notion.com/p/3fe9c8fcc83d8176a7f5da89c5aec540",
+  "exportedAt": "2026-10-19T20:37:45Z",
+  "exportedVia": {
+    "mcpServer": "notion",
+    "tools": [
+      "notion-search",
+      "notion-fetch",
+      "notion-query-data-sources",
+      "notion-get-users"
+    ],
+    "request": "Notion: all the pages in my workspace."
+  },
+  "fields": {
+    "parent": {
+      "type": "workspace",
+      "id": null,
+      "title": null
+    },
+    "createdTime": "2026-10-19T19:51:00Z",
+    "lastEditedTime": "2026-10-19T19:51:58Z",
+    "createdBy": null,
+    "properties": {},
+    "archived": false
+  }
+}

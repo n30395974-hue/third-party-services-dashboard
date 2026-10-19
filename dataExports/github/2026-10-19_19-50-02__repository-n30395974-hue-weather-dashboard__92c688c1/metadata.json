@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/weather-dashboard",
+  "title": "n30395974-hue/weather-dashboard",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:50:02Z",
+  "url": "https://github.com/n30395974-hue/weather-dashboard",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "weather-dashboard",
+    "fullName": "n30395974-hue/weather-dashboard",
+    "description": "React weather dashboard using the Open-Meteo API",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "open-meteo",
+      "react",
+      "vite",
+      "weather"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 2,
+    "createdAt": "2026-10-19T19:50:02Z",
+    "updatedAt": "2026-10-19T20:29:54Z",
+    "pushedAt": "2026-10-19T20:29:50Z"
+  }
+}

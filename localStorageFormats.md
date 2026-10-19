@@ -236,3 +236,18 @@ overwritten because the same item was downloaded again.
 4. **Missing values are explicit**: required fields use `null` or `[]`, never omitted.
 5. **Validate after every download**:
    `python3 .claude/skills/download-service-data/scripts/validate_exports.py`
+
+---
+
+## 7. Known limitations
+
+These gaps come from what the official MCP servers expose. They are documented here rather than filled with guesses.
+
+| Area | Limitation |
+|---|---|
+| Notion `author` | Always `"unknown"` (and `fields.createdBy` is `null`). The Notion MCP tools don't expose who created a page. |
+| Notion `createdTime` | Exact for database pages, where it comes from a database query. For other pages it comes from the search result and is accurate only to the minute. It may also be the last-edited time, not the creation time. Because `primaryTime` is derived from it, it also sets the timestamp in those pages' folder names. |
+| Notion completeness | Pages are found by keyword search, since there is no "list all pages" tool. A page that matches none of the searches could be missed. |
+| Slack `url` | `null`. Per-message permalinks weren't fetched. |
+| Slack messages | Automatic "has joined the channel" messages are excluded. |
+| Gmail | Only the test emails were exported. Account and security notification emails were excluded because they contain IP and location details. |

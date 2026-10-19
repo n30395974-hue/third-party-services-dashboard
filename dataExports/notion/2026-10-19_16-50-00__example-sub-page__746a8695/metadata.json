@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "service": "notion",
+  "type": "page",
+  "sourceId": "3fe9c8fc-c83d-8002-86c0-f5c7454b0797",
+  "title": "Example sub-page",
+  "author": "unknown",
+  "primaryTime": "2026-10-19T16:50:00Z",
+  "url": "https://app.notion.com/p/3fe9c8fcc83d800286c0f5c7454b0797",
+  "exportedAt": "2026-10-19T20:37:45Z",
+  "exportedVia": {
+    "mcpServer": "notion",
+    "tools": [
+      "notion-search",
+      "notion-fetch",
+      "notion-query-data-sources",
+      "notion-get-users"
+    ],
+    "request": "Notion: all the pages in my workspace."
+  },
+  "fields": {
+    "parent": {
+      "type": "page",
+      "id": "3fe9c8fc-c83d-80d9-898f-f77b307c4459",
+      "title": "(Here’s an ‣!)"
+    },
+    "createdTime": "2026-10-19T16:50:00Z",
+    "lastEditedTime": "2026-10-19T16:50:22Z",
+    "createdBy": null,
+    "properties": {},
+    "archived": false
+  }
+}

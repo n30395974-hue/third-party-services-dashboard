@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "service": "github",
+  "type": "repository",
+  "sourceId": "n30395974-hue/study-timer",
+  "title": "n30395974-hue/study-timer",
+  "author": "n30395974-hue",
+  "primaryTime": "2026-10-19T19:50:06Z",
+  "url": "https://github.com/n30395974-hue/study-timer",
+  "exportedAt": "2026-10-19T20:34:53Z",
+  "exportedVia": {
+    "mcpServer": "github",
+    "tools": [
+      "search_repositories",
+      "get_file_contents",
+      "list_issues",
+      "issue_read"
+    ],
+    "request": "GitHub: all my repos on n30395974-hue (skip third-party-services-dashboard) and their open issues."
+  },
+  "fields": {
+    "owner": "n30395974-hue",
+    "name": "study-timer",
+    "fullName": "n30395974-hue/study-timer",
+    "description": "Minimal Pomodoro timer that runs in the browser",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "language": null,
+    "homepage": null,
+    "topics": [
+      "html",
+      "javascript",
+      "pomodoro",
+      "productivity"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 2,
+    "createdAt": "2026-10-19T19:50:06Z",
+    "updatedAt": "2026-10-19T20:29:56Z",
+    "pushedAt": "2026-10-19T20:29:52Z"
+  }
+}

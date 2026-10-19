@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "service": "slack",
+  "type": "message",
+  "sourceId": "C0CAFAZ208J/1792437323.470389",
+  "title": "CS 301 study group is moving to Thursday 7pm, library room 204. Bring the dyn...",
+  "author": "n30395974",
+  "primaryTime": "2026-10-19T19:15:23Z",
+  "url": null,
+  "exportedAt": "2026-10-19T20:34:54Z",
+  "exportedVia": {
+    "mcpServer": "slack",
+    "tools": [
+      "slack_search_channels",
+      "slack_read_channel",
+      "slack_read_thread"
+    ],
+    "request": "Slack: recent messages from #general and #random, with thread replies."
+  },
+  "fields": {
+    "channel": {
+      "id": "C0CAFAZ208J",
+      "name": "general"
+    },
+    "user": {
+      "id": "U0C9YRVUR47",
+      "name": "n30395974"
+    },
+    "ts": "1792437323.470389",
+    "threadTs": null,
+    "replyCount": 0
+  }
+}
