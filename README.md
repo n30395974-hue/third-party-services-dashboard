@@ -92,7 +92,9 @@ admin, so you can approve the connection).
 The official GitHub server authenticates with a personal access token (PAT) for your **test**
 GitHub account:
 1. On the test account: *Settings → Developer settings → Personal access tokens → Fine-grained
-   tokens*. Grant read-only access to repositories, issues, and pull requests.
+   tokens*, repository access "All repositories". Read-only access to Contents, Issues, and Pull
+   requests is enough for downloading; to let Claude **create** the test repos and issues, also
+   grant Administration, Contents, and Issues **read and write** (it's a throwaway account).
 2. Put the token in your shell environment, never in a file in this repo:
    ```bash
    export GITHUB_PAT=github_pat_xxxxxxxx   # add to ~/.zshrc or ~/.bashrc to keep it
