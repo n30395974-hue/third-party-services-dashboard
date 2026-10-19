@@ -12,6 +12,15 @@ Gmail, GitHub, and Notion are required by the assignment; **Slack** is the addit
 > All accounts used here are **test accounts created for this assignment**. No personal,
 > school, or work data is in this repository.
 
+### Test accounts used
+
+| Service | Test account |
+|---|---|
+| GitHub | [`n30395974-hue`](https://github.com/n30395974-hue) |
+| Gmail | *(test address)* |
+| Notion | *(test workspace)* |
+| Slack | *(test workspace)* |
+
 ---
 
 ## How it works
