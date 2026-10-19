@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3d09067173",
+  "title": "Fwd: Capstone project kickoff notes (Joe Smith)",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:47Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510936222855539|msg-f:1879510936222855539",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:47Z",
+    "threadId": "1a155d3d09067173",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Forwarding Joe's notes from today's capstone project kickoff so I have them in one place. ---------- Forwarded message ---------- From: Joe Smith Subject: Capstone project kickoff notes Hey",
+    "attachments": []
+  }
+}

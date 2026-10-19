@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3e3a898feb",
+  "title": "Fwd: Study group moved to Thursday",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:51Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510941348499435|msg-f:1879510941348499435",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:51Z",
+    "threadId": "1a155d3e3a898feb",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Heads up, the study group moved. ---------- Forwarded message ---------- From: Joe Smith Subject: Study group moved to Thursday Hey, The CS 340 study group is moving from Wednesday to Thursday at 7pm",
+    "attachments": []
+  }
+}

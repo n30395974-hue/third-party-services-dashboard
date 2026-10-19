@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3d881cd21e",
+  "title": "Fwd: Capstone milestone 2 feedback",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:49Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510938355028510|msg-f:1879510938355028510",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:49Z",
+    "threadId": "1a155d3d881cd21e",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Forwarding the milestone 2 feedback Joe got from the professor. ---------- Forwarded message ---------- From: Joe Smith Subject: Capstone milestone 2 feedback Noah, Feedback on our capstone project",
+    "attachments": []
+  }
+}

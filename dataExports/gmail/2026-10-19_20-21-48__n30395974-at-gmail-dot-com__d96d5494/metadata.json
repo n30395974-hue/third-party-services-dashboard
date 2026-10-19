@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3d730cfac2",
+  "title": "Internship applications - weekly update",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:48Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510938001668802|msg-f:1879510938001668802",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:48Z",
+    "threadId": "1a155d3d730cfac2",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Weekly internship tracker update: Applied: - Northwind Software (summer SWE intern) - applied Monday - Contoso Labs (data engineering intern) - applied Wednesday In progress: - Fabrikam (frontend",
+    "attachments": []
+  }
+}

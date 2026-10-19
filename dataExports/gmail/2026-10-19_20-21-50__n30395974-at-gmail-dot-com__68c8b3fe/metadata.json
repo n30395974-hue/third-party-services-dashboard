@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3dd01f25c7",
+  "title": "October budget notes",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:50Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510939563140551|msg-f:1879510939563140551",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:50Z",
+    "threadId": "1a155d3dd01f25c7",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Budget notes for October: - Rent share: $650 - Groceries: ~$220 - Transit pass: $45 - Phone: $35 - Hackathon travel/snacks: $30 - Textbooks: $60 (used copy for CS 340) Total: about $1040. Track",
+    "attachments": []
+  }
+}

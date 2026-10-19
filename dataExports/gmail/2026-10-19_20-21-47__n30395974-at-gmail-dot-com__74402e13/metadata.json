@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3d2c08e61c",
+  "title": "Reminder: hackathon registration closes Friday",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:47Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510936810219036|msg-f:1879510936810219036",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:47Z",
+    "threadId": "1a155d3d2c08e61c",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Reminder to self: The fall hackathon registration closes this Friday at 11:59pm. - Team: me + Joe Smith (max 4, maybe ask Priya) - Theme this year: \"tools for students\" - Need: team name, one",
+    "attachments": []
+  }
+}

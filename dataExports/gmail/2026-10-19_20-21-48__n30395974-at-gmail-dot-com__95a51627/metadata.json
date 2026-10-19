@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3d46665466",
+  "title": "Fwd: CS 301 midterm review sheet",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:48Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510937252549734|msg-f:1879510937252549734",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:48Z",
+    "threadId": "1a155d3d46665466",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Saving this for studying. ---------- Forwarded message ---------- Subject: CS 301 midterm review sheet Topics covered on the midterm: 1. Big-O analysis of loops and recursion 2. Stacks, queues, and",
+    "attachments": []
+  }
+}

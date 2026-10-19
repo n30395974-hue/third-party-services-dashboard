@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "service": "gmail",
+  "type": "email",
+  "sourceId": "1a155d3e0643185d",
+  "title": "Capstone demo checklist",
+  "author": "n30395974@gmail.com",
+  "primaryTime": "2026-10-19T20:21:51Z",
+  "url": "https://mail.google.com/mail/?authuser=n30395974@gmail.com#all/thread-f:1879510940471466077|msg-f:1879510940471466077",
+  "exportedAt": "2026-10-19T20:22:45Z",
+  "exportedVia": {
+    "mcpServer": "gmail",
+    "tools": [
+      "search_threads",
+      "get_message"
+    ],
+    "request": "Download the 10 test emails in the test inbox (excluding account/security notification emails)"
+  },
+  "fields": {
+    "from": {
+      "name": null,
+      "email": "n30395974@gmail.com"
+    },
+    "to": [
+      {
+        "name": null,
+        "email": "n30395974@gmail.com"
+      }
+    ],
+    "cc": [],
+    "receivedAt": "2026-10-19T20:21:51Z",
+    "threadId": "1a155d3e0643185d",
+    "labels": [
+      "UNREAD",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Checklist for the capstone project demo: [ ] Deploy latest build to the test server [ ] Seed the database with 20 sample rooms [ ] Practice the 5-minute walkthrough with Joe Smith [ ] Show search by",
+    "attachments": []
+  }
+}
