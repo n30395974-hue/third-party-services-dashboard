@@ -1,0 +1,41 @@
+{
+  "service": "github",
+  "request": "TEST FIXTURE - not real downloaded data",
+  "tools": ["fixture"],
+  "items": [
+    {
+      "type": "repository",
+      "sourceId": "fixture-user/recipe-box",
+      "title": "fixture-user/recipe-box",
+      "author": "fixture-user",
+      "url": null,
+      "fields": {
+        "owner": "fixture-user",
+        "name": "recipe-box",
+        "fullName": "fixture-user/recipe-box",
+        "description": "Sample fixture repo for storing recipes",
+        "visibility": "public",
+        "language": "JavaScript",
+        "topics": ["recipes"],
+        "createdAt": "2026-09-30T14:02:11.123456789Z"
+      },
+      "content": "A sample fixture README. Maintained with help from Joe Smith."
+    },
+    {
+      "type": "issue",
+      "sourceId": "fixture-user/recipe-box#3",
+      "title": "Add a search bar",
+      "author": "fixture-user",
+      "url": null,
+      "fields": {
+        "repository": "fixture-user/recipe-box",
+        "number": 3,
+        "state": "open",
+        "labels": ["enhancement"],
+        "assignees": [],
+        "createdAt": "2026-10-01T09:00:00+02:00"
+      },
+      "content": "Sample fixture issue body.\n\n## Comments\n\n### fixture-user — 2026-10-01T08:00:00Z\nGood idea."
+    }
+  ]
+}

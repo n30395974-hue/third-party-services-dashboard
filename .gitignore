@@ -1,0 +1,19 @@
+# Secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+client_secret*.json
+credentials*.json
+token*.json
+
+# Personal Claude Code settings (may contain local permissions/paths)
+.claude/settings.local.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.vscode/
+.idea/

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Services Dashboard</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Services Dashboard</h1>
+      <p class="sub">Search data downloaded from Gmail, GitHub, Notion and Slack through Claude Code. Everything shown here is read from the local <code>dataExports/</code> folder.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Search and filters">
+      <label class="search">
+        <span class="visually-hidden">Search</span>
+        <input id="query" type="search" placeholder='Search all services, e.g. Joe Smith or "study group"' autocomplete="off" autofocus>
+      </label>
+      <div id="service-filters" class="chips" role="group" aria-label="Filter by service"></div>
+    </section>
+
+    <p id="status" class="status" role="status" aria-live="polite">Loading…</p>
+    <div id="warnings" class="warnings" hidden></div>
+    <ol id="results" class="results"></ol>
+
+    <div id="empty" class="empty" hidden>
+      <h2>No downloaded data yet</h2>
+      <p>Ask Claude Code to download data, for example:<br>
+        <code>download the 10 most recent emails in my inbox</code></p>
+      <p>It uses the project skill in <code>.claude/skills/download-service-data/</code> and saves into <code>dataExports/</code>. Refresh this page afterwards.</p>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

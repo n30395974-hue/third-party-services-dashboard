@@ -1,0 +1,21 @@
+{
+  "service": "notion",
+  "request": "TEST FIXTURE - not real downloaded data",
+  "tools": ["fixture"],
+  "items": [
+    {
+      "type": "page",
+      "sourceId": "00000000-0000-0000-0000-000000000001",
+      "title": "Spring Semester Reading List",
+      "author": "Fixture Creator",
+      "url": null,
+      "fields": {
+        "parent": {"type": "workspace", "id": null, "title": null},
+        "createdTime": "2026-10-02T17:40:00.000Z",
+        "lastEditedTime": "2026-10-05T10:00:00.000Z",
+        "properties": {}
+      },
+      "content": "Sample fixture page.\n\n- Recommended by Joe Smith: *Godel, Escher, Bach*"
+    }
+  ]
+}

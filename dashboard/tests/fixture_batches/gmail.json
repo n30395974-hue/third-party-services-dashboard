@@ -1,0 +1,41 @@
+{
+  "service": "gmail",
+  "request": "TEST FIXTURE - not real downloaded data",
+  "tools": ["fixture"],
+  "items": [
+    {
+      "type": "email",
+      "sourceId": "fixture-msg-001",
+      "title": "Study group notes from Joe Smith",
+      "author": "Joe Smith <joe.smith@example.com>",
+      "url": null,
+      "fields": {
+        "from": {"name": "Joe Smith", "email": "joe.smith@example.com"},
+        "to": [{"name": null, "email": "test.inbox@example.com"}],
+        "cc": [],
+        "receivedAt": "2026-10-19T08:15:59Z",
+        "threadId": "fixture-thread-001",
+        "labels": ["INBOX", "UNREAD"],
+        "snippet": "Sample fixture email about the study group",
+        "attachments": [{"filename": "notes.pdf", "mimeType": "application/pdf", "sizeBytes": 48211}]
+      },
+      "content": "Hi,\n\nSample fixture email. The quantum mechanics study group meets Tuesday.\n\n- Joe"
+    },
+    {
+      "type": "email",
+      "sourceId": "fixture-msg-002",
+      "title": "Untrusted <img src=x onerror=alert(1)> subject",
+      "author": "Mallory <mallory@example.com>",
+      "url": null,
+      "fields": {
+        "from": {"name": "Mallory", "email": "mallory@example.com"},
+        "to": [{"name": null, "email": "test.inbox@example.com"}],
+        "receivedAt": 1760890000000,
+        "threadId": "fixture-thread-002",
+        "labels": ["INBOX"],
+        "attachments": []
+      },
+      "content": "<script>alert('xss')</script> This fixture checks the dashboard escapes HTML."
+    }
+  ]
+}

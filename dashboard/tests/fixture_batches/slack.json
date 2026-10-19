@@ -1,0 +1,23 @@
+{
+  "service": "slack",
+  "request": "TEST FIXTURE - not real downloaded data",
+  "tools": ["fixture"],
+  "items": [
+    {
+      "type": "message",
+      "sourceId": "C0FIXTURE/1760821424.000200",
+      "title": "Is anyone going to the hackathon?",
+      "author": "alice-test",
+      "url": null,
+      "fields": {
+        "channel": {"id": "C0FIXTURE", "name": "general"},
+        "user": {"id": "U0FIXTURE", "name": "alice-test"},
+        "ts": "1760821424.000200",
+        "threadTs": null,
+        "replyCount": 1,
+        "reactions": [{"name": "tada", "count": 2}]
+      },
+      "content": "Is anyone going to the hackathon? Sample fixture message.\n\n## Thread replies\n\n### bob-test — 2026-10-18T21:05:00Z\nYes, with Joe Smith."
+    }
+  ]
+}
